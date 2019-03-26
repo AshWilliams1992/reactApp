@@ -1,2 +1,2 @@
 # reactApp
-A simple react ecommerce app, with json and animations
+A simple react e-commerce app, with json and animations.
