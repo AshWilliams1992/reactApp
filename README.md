@@ -12,4 +12,4 @@ Gulp to compile and minified Sass;
 Greensock for animations;
 Photoshop;
 
-https://ashwilliams1992.github.io/
+https://ashwilliams1992.github.io/reactApp/
