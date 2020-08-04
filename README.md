@@ -1,6 +1,6 @@
 # reactApp
 
-https://ashwilliams1992.github.io/reactApp/
+https://simonlittlefly.github.io/reactApp/
 
 A simple react ecommerce app, with json and animations
 
